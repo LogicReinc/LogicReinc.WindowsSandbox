@@ -1,0 +1,1 @@
+﻿To get this component to work, copy a brave installation into this directory. (Where "BraveSoftware" = Installation)

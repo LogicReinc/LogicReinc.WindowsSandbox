@@ -1,0 +1,1 @@
+﻿To get this component to work, Copy the installer of Winrar named winrar.exe into this directory.
