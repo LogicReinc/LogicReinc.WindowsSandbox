@@ -1,0 +1,12 @@
+{
+  "ID": "Brave",
+  "Preserve": [
+    "{AppData}/Local/BraveSoftware"
+  ],
+  "Data": {
+    "bravePath": "Installation"
+  },
+  "Shortcuts": [
+    "{bravePath}/Brave-Browser/Application/brave.exe"
+  ]
+}

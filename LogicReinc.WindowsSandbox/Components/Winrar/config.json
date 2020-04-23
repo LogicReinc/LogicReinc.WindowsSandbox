@@ -1,0 +1,9 @@
+{
+  "ID": "Winrar",
+  "References": {
+    "winrar":  "winrar.exe"
+  },
+  "Startup": [
+    "start /wait {winrar} /s"
+  ]
+}
